@@ -17,3 +17,4 @@ Es un proyecto dedicado al crecimiento de comunidades universitarias a través d
 [Roadmap]
 
 [Licencia]
+ - Acá es necesario agregar más que licencias!
